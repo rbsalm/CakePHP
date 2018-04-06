@@ -210,7 +210,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1> Welcome to Robson CakePHP WEB application for UINMED FESP OpenShift</h1>
+            <h1> Welcome to Robson CakePHP WEB application for Sicredi OpenShift</h1>
           </hgroup>
 
 
