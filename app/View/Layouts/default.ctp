@@ -210,7 +210,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1> Welcome to Robson CakePHP WEB application for Sicredi OpenShift</h1>
+            <h1> Welcome to CakePHP WEB application for Sicredi V1 OpenShift</h1>
           </hgroup>
 
 
@@ -358,3 +358,4 @@ oc deploy cakephp-mysql-example --latest
 
 </body>
 </html>
+	
